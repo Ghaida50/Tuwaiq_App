@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tuwaiq App</string>
+    <string name="welcome">Hello, Welcome to</string>
+    <string name="tuwaiq">Tuwaiq Academy</string>
+    <string name="traning"><![CDATA[Traning & More]]></string>
+    <string name="what">What We Offer</string>
+    <string name="special">Specialized in Training</string>
+    <string name="included">What\'s included: </string>
+    <string  name="list">
+        <li>Multi training experiences.</li>
+      \n  <li>Bootcamps.</li>
+      \n  <li>Workshops.</li>
+      \n  <li>Webinars.</li>
+       \n <li>Talks</li>
+    </string>
+    <string name="business">Business Detalis</string>
+    <string name="location">Riyadh</string>
+
+</resources>
